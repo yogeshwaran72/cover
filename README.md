@@ -117,23 +117,25 @@ book.html
         <div class="bookpage">
             <div class="insight">EXPERT INSIGHT</div>
             <div class="hrstyle"><hr style="color: rgb(0, 255, 60);"></div>
-            <div class="booktitle"><h1>MUSTANG GT 2024</h1></div>
+            <div class="booktitle"><h1>MASTER IN WEB</h1></div>
             <div class="subtitle">
                 
                 
                 USER MANUAL</div>
             <div class="mypic"><img src="my image.jpg" width="130" height="145" alt=""></div>
             <div class="id"><hr style="color: rgb(0, 255, 60);"></div>
-            <div class="author"><p><b>BY YOGESH A</b></p></div>
+            <div class="author"><p><b>BY YOGESH A</b></p></div><cd class=""></cd>
             <div class="pub">OPEN >>></div>
             <div class="ed"><b>Special Edition</b></div>
         </div>
     </bodY>
 </html>
+
 ```
 
 ## OUTPUT:
-![Screenshot 2024-04-24 141126](https://github.com/yogeshwaran72/cover/assets/153492924/5bd7444c-5ca1-4887-905d-e4f27169370d)
+![Screenshot 2024-05-06 142720](https://github.com/yogeshwaran72/cover/assets/153492924/fdc545de-734e-4db7-9833-9166b5d67b25)
+
 
 
 ## RESULT:
